@@ -37,5 +37,6 @@ i{
     float: right;
     cursor: pointer;
     margin-left: 0.5em;
+    color: black !important;
 }
 

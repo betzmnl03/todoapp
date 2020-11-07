@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    //border: 1px solid red;
+    
+}
+
+
+body{
+    background-image: url("./background_image.png");
+    width: 100vw;
+    height: 100vh;
+}
+
+.border{
+    list-style: none;
+    background-color: peachpuff;
+    
+    margin-bottom: 2px;
+
+}
+
+.strike{
+     text-decoration: line-through; 
+    }
+
+#header{
+    text-align: center;
+    padding: 2em;
+    margin: 2em;
+
+}
+
+
+
+i{
+    float: right;
+    cursor: pointer;
+    margin-left: 0.5em;
+}
+
